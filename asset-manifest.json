@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d030210.css",
-    "main.js": "/static/js/main.a0f31913.js",
-    "static/media/bike4.jpg": "/static/media/bike4.159adb88d65bb2fbca1b.jpg",
-    "static/media/lorry1.jpg": "/static/media/lorry1.d384aa647a8a32e7193f.jpg",
-    "static/media/lorry3.jpg": "/static/media/lorry3.a37a3d85a25ad2c0d3a1.jpg",
-    "static/media/bike3.jpg": "/static/media/bike3.18644e32ca595f270f9b.jpg",
-    "static/media/bike1.jpg": "/static/media/bike1.460a4feabecc00cde165.jpg",
-    "static/media/bike2.jpg": "/static/media/bike2.38934d5f800e87a2bde5.jpg",
-    "static/media/car4.jpg": "/static/media/car4.79a905f3361eab68daed.jpg",
-    "static/media/car3.jpg": "/static/media/car3.3447ea32ef15b4bf9994.jpg",
-    "static/media/car1.jpg": "/static/media/car1.7b204e4025c9c9813ffa.jpg",
-    "static/media/lorry4.jpg": "/static/media/lorry4.556a9baf448d318c2a5a.jpg",
-    "static/media/car2.jpg": "/static/media/car2.400d8be1dec12ed6c0e2.jpg",
-    "static/media/lorry2.jpg": "/static/media/lorry2.7976b07b7fdc3796e848.jpg",
-    "index.html": "/index.html",
-    "main.5d030210.css.map": "/static/css/main.5d030210.css.map",
-    "main.a0f31913.js.map": "/static/js/main.a0f31913.js.map"
+    "main.css": "/vehicle-frontend/static/css/main.5d030210.css",
+    "main.js": "/vehicle-frontend/static/js/main.51413de6.js",
+    "static/media/bike4.jpg": "/vehicle-frontend/static/media/bike4.159adb88d65bb2fbca1b.jpg",
+    "static/media/lorry1.jpg": "/vehicle-frontend/static/media/lorry1.d384aa647a8a32e7193f.jpg",
+    "static/media/lorry3.jpg": "/vehicle-frontend/static/media/lorry3.a37a3d85a25ad2c0d3a1.jpg",
+    "static/media/bike3.jpg": "/vehicle-frontend/static/media/bike3.18644e32ca595f270f9b.jpg",
+    "static/media/bike1.jpg": "/vehicle-frontend/static/media/bike1.460a4feabecc00cde165.jpg",
+    "static/media/bike2.jpg": "/vehicle-frontend/static/media/bike2.38934d5f800e87a2bde5.jpg",
+    "static/media/car4.jpg": "/vehicle-frontend/static/media/car4.79a905f3361eab68daed.jpg",
+    "static/media/car3.jpg": "/vehicle-frontend/static/media/car3.3447ea32ef15b4bf9994.jpg",
+    "static/media/car1.jpg": "/vehicle-frontend/static/media/car1.7b204e4025c9c9813ffa.jpg",
+    "static/media/lorry4.jpg": "/vehicle-frontend/static/media/lorry4.556a9baf448d318c2a5a.jpg",
+    "static/media/car2.jpg": "/vehicle-frontend/static/media/car2.400d8be1dec12ed6c0e2.jpg",
+    "static/media/lorry2.jpg": "/vehicle-frontend/static/media/lorry2.7976b07b7fdc3796e848.jpg",
+    "index.html": "/vehicle-frontend/index.html",
+    "main.5d030210.css.map": "/vehicle-frontend/static/css/main.5d030210.css.map",
+    "main.51413de6.js.map": "/vehicle-frontend/static/js/main.51413de6.js.map"
   },
   "entrypoints": [
     "static/css/main.5d030210.css",
-    "static/js/main.a0f31913.js"
+    "static/js/main.51413de6.js"
   ]
 }
