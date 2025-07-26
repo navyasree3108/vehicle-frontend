@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f7f5fa;
+  color: #0ba7ca;
+}
+
+.hero {
+ 
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: rgba(244, 243, 245, 0.905);
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.hero p {
+  font-size: 1.2rem;
+}
+
+.vehicle-section {
+  padding: 50px 0;
+}
+
+.vehicle-section h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-weight: bold;
+  color: #343a40;
+}
+
+footer {
+  background: #046fd9;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 50px;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: underline;
+}
